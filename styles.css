@@ -1,0 +1,59 @@
+* {
+    background-color:#edf2fb;
+    margin: 0 auto;
+    font-family: 'Roboto Slab', serif;
+}
+
+.minibio {
+    margin-top: 60px;
+    text-align: center;
+    color: #002855;
+}
+
+.foto {
+    width: 223px;
+    height: 235px;
+    border-radius: 50%;
+}
+
+.minibio h1 {
+    width: 280px;
+    margin-top: 8px;
+    margin-bottom: 12px;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.minibio p {
+    width: 220px;
+    margin-bottom: 50px;
+    font-size: 19px;
+    font-weight: 400;
+}
+
+.redes-sociais {
+    width: 300px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.botao {
+    color: #002855;
+    border-radius: 10px;
+    border-color: #abc4ff;
+    cursor: pointer;
+    padding: 16px 45px;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: #abc4ff;
+    width: 300px;
+    margin: 10px;
+    font-size: 15px;
+}
+
+#footer {
+    
+    margin-top: 60px;
+}
